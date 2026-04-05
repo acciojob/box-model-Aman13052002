@@ -4,6 +4,10 @@
 	background-color: gray;
 	border-radius: 5px;
 	padding: auto;
+	display: inline;
+	justify-content: center;
+	align-items: center;
+	gap: 5px;
 }
 .red{
 	background-color: red;
