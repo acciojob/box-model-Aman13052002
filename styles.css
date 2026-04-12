@@ -1,12 +1,13 @@
 /*  your css code here. If applicable */
 .outer{
+	display: flex;
+	justify-content:center;
+	align-content: center;
 	border: 3px solid black;
 	background-color: gray;
-	border-radius: 5px;
-	padding: auto;
-	display: inline;
-	justify-content: center;
-	align-items: center;
+	border-radius: 10px;
+	padding: 10px;
+	text-align: center;
 	gap: 5px;
 }
 .red{
